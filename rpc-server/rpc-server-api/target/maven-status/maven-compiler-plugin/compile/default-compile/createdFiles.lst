@@ -1,0 +1,3 @@
+com\mc\rpc\App.class
+com\mc\rpc\IHelloService.class
+com\mc\rpc\RpcRequest.class
